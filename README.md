@@ -12,7 +12,7 @@ The dataset consists of two CSV files:
 - **`winequality-red.csv`** → Red wine data  
 - **`winequality-white.csv`** → White wine data  
 
-A full description of the dataset is available in **wines.txt**.  
+A full description of the dataset is available in **winequality.names**.  
 
 📌 **Original Source:**  
 [UCI Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)  
@@ -73,7 +73,7 @@ jupyter notebook
  ├── 📁 data  
  │   ├── winequality-red.csv  
  │   ├── winequality-white.csv  
- │   └── wines.txt  
+ │   └── winequality.names  
  ├── 📁 notebooks  
  │   ├── Wine_Quality_Analysis.ipynb  
  ├── 📁 src  
