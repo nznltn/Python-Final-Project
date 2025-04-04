@@ -6,17 +6,26 @@ It analyzes **Portuguese red and white wine** data using Python, applying **data
 ---
 
 ## 📂 Dataset Information  
+This project uses the **Wine Quality Dataset** from the **UCI Machine Learning Repository**.  
+
 The dataset consists of two CSV files:  
 - **`winequality-red.csv`** → Red wine data  
 - **`winequality-white.csv`** → White wine data  
 
 A full description of the dataset is available in **wines.txt**.  
 
-### 🔗 Source  
-📌 [UCI Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)  
-📌 [Research Paper on Wine Data](https://www.semanticscholar.org/paper/Modeling-wine-preferences-by-data-mining-from-Cortez-Cerdeira/bf15a0ccc14ac1deb5cea570c870389c16be019c)  
+📌 **Original Source:**  
+[UCI Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)  
+
+📜 **License:**  
+This dataset is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+You are free to **share and adapt** the data **as long as proper credit is given**.  
+
+📌 **Reference Paper:**  
+[Research Paper on Wine Data](https://www.semanticscholar.org/paper/Modeling-wine-preferences-by-data-mining-from-Cortez-Cerdeira/bf15a0ccc14ac1deb5cea570c870389c16be019c)  
 
 ---
+
 
 ## 📊 Project Overview  
 🔹 **Goal**: Analyze and predict **wine quality** based on its physicochemical properties.  
