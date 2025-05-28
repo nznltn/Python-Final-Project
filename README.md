@@ -77,8 +77,8 @@ jupyter notebook
  ├── 📁 notebooks  
  │   ├── Wine_Quality_Analysis.ipynb  
  ├── 📁 src  
- │   ├── data_preprocessing.py  
- │   ├── model_training.py  
+ │   ├── exploratory_analysis_and_preprocessing.py  
+ │   ├── machine_learning.py  
  ├── README.md  
  ├── requirements.txt  
 ```
@@ -86,7 +86,7 @@ jupyter notebook
 ---
 
 ## 📌 Future Improvements  
-🔹 Apply **additional ML models** (e.g., SVM, XGBoost)  
+🔹 Apply **additional ML models** (e.g., XGBoost)  
 🔹 Implement **hyperparameter tuning** for better predictions  
 🔹 Deploy a **Streamlit dashboard** for interactive visualizations  
 
