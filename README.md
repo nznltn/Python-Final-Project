@@ -77,8 +77,8 @@ jupyter notebook
  ├── 📁 notebooks  
  │   ├── Wine_Quality_Analysis.ipynb  
  ├── 📁 src  
- │   ├── exploratory_analysis_and_preprocessing.py  
- │   ├── machine_learning.py  
+ │   ├── exploratory_analysis_and_preprocessing.ipynb  
+ │   ├── machine_learning.ipynb  
  ├── README.md  
  ├── requirements.txt  
 ```
